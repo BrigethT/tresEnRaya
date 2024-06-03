@@ -8,7 +8,7 @@ function App() {// App es una componente funcional
   return (
     //jsx no cambia
     <div className="App">
-    <Tablero></Tablero>
+    {/* <Tablero></Tablero> */}
     </div>
   );
 }
