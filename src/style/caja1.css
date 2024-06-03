@@ -1,0 +1,14 @@
+.caja1{
+    
+    height:  40px;
+    width: 50px;
+    font-size: 20pt ;
+    background-color: red;
+}
+.Tablero{
+    margin-top: 100px;
+}
+.errorNombreUsuario{
+    color: red;
+    font-size: 10pt;
+}
